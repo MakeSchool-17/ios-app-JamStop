@@ -2,7 +2,7 @@
 
 
 ##Objective
-Charge* lets writers take snapshots of moments of inspiration and write on them. It will be a platform that either is connected with Medium, or wholly relies on Medium overall.
+Charge helps writers keep track of their writing inspirations, and lets them easily start drafts for them on Medium!
 
 
 ##Audience
@@ -21,15 +21,15 @@ The user should not have to describe the length of the story they plan to write;
 
 ####External Services
 Medium API
-Facebook API
+Facebook API <- Probably not needed as much
 
 ####Screens
-Page View Controller w/ some form of login
-Home/Feed View (Tab Bar)
+Page View Controller w/ some form of login <- Unnecessary
+Home/Feed View (Tab Bar) <- Unnecessary
 Picture Taker/Story Writer (Tab Bar and Modal)
-Profile (Tab Bar)*
-Drafts/Charges (Tab Bar)
-Browse (Tab Bar)*
+Profile (Tab Bar)* <- Unnecessary
+Drafts/Charges (Tab Bar) <- Home view
+Browse (Tab Bar)* <- Unnecessary
 
 
 ####Views / View Controllers/ Classes
